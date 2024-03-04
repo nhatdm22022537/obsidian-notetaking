@@ -356,3 +356,213 @@ annotation-target: Engineering-Software-Products_-An-Introduction-to-Modern-Soft
 >%%TAGS%%
 >
 ^170m6tzf6hm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:06.523Z","updated":"2024-03-04T04:06:06.523Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71191,"end":71227},{"type":"TextQuoteSelector","exact":" this informal approach to managemen","prefix":"d project manager.Unfortunately,","suffix":"t does not meet the broader busi"}]}]}
+>```
+>%%
+>*%%PREFIX%%d project manager.Unfortunately,%%HIGHLIGHT%% ==this informal approach to managemen== %%POSTFIX%%t does not meet the broader busi*
+>%%LINK%%[[#^6q7n7rdy9kf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6q7n7rdy9kf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:13.633Z","updated":"2024-03-04T04:06:13.633Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71238,"end":71268},{"type":"TextQuoteSelector","exact":"meet the broader business need","prefix":"approach to management does not ","suffix":" of progress tracking and assess"}]}]}
+>```
+>%%
+>*%%PREFIX%%approach to management does not%%HIGHLIGHT%% ==meet the broader business need== %%POSTFIX%%of progress tracking and assess*
+>%%LINK%%[[#^zfah2pq7f9j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zfah2pq7f9j
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:16.414Z","updated":"2024-03-04T04:06:16.414Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71272,"end":71304},{"type":"TextQuoteSelector","exact":"progress tracking and assessment","prefix":"et the broader business need of ","suffix":". Senior managers do not have th"}]}]}
+>```
+>%%
+>*%%PREFIX%%et the broader business need of%%HIGHLIGHT%% ==progress tracking and assessment== %%POSTFIX%%. Senior managers do not have th*
+>%%LINK%%[[#^iubkl2ylve|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^iubkl2ylve
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:38.919Z","updated":"2024-03-04T04:06:38.919Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71306,"end":71321},{"type":"TextQuoteSelector","exact":"Senior managers","prefix":"ogress tracking and assessment. ","suffix":" do not have the time to become "}]}]}
+>```
+>%%
+>*%%PREFIX%%ogress tracking and assessment.%%HIGHLIGHT%% ==Senior managers== %%POSTFIX%%do not have the time to become*
+>%%LINK%%[[#^88vl7hfx1pv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^88vl7hfx1pv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:43.267Z","updated":"2024-03-04T04:06:43.267Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71329,"end":71343},{"type":"TextQuoteSelector","exact":"have the time ","prefix":"essment. Senior managers do not ","suffix":"to become involved in detailed d"}]}]}
+>```
+>%%
+>*%%PREFIX%%essment. Senior managers do not%%HIGHLIGHT%% ==have the time== %%POSTFIX%%to become involved in detailed d*
+>%%LINK%%[[#^yzrywo8208c|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^yzrywo8208c
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:06:46.535Z","updated":"2024-03-04T04:06:46.535Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71352,"end":71385},{"type":"TextQuoteSelector","exact":" involved in detailed discussions","prefix":"s do not have the time to become","suffix":" with team members. Managers wan"}]}]}
+>```
+>%%
+>*%%PREFIX%%s do not have the time to become%%HIGHLIGHT%% ==involved in detailed discussions== %%POSTFIX%%with team members. Managers wan*
+>%%LINK%%[[#^dafbg87xson|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dafbg87xson
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:07:06.334Z","updated":"2024-03-04T04:07:06.334Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71541,"end":71575},{"type":"TextQuoteSelector","exact":"whether the software will be ready","prefix":"lopment team. They need to know ","suffix":" by the planned completion date,"}]}]}
+>```
+>%%
+>*%%PREFIX%%lopment team. They need to know%%HIGHLIGHT%% ==whether the software will be ready== %%POSTFIX%%by the planned completion date,*
+>%%LINK%%[[#^aiqhe5y7l7k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^aiqhe5y7l7k
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:10:35.684Z","updated":"2024-03-04T04:10:35.684Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":71959,"end":71995},{"type":"TextQuoteSelector","exact":"he ScrumMaster and the Product Owner","prefix":"n with designated individuals (t","suffix":") who act as the interface betwe"}]}]}
+>```
+>%%
+>*%%PREFIX%%n with designated individuals (t%%HIGHLIGHT%% ==he ScrumMaster and the Product Owner== %%POSTFIX%%) who act as the interface betwe*
+>%%LINK%%[[#^npezeroxuv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^npezeroxuv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:10:39.514Z","updated":"2024-03-04T04:10:39.514Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":72005,"end":72072},{"type":"TextQuoteSelector","exact":"as the interface between the development team and the organization.","prefix":" and the Product Owner) who act ","suffix":"The developers of Scrum wanted t"}]}]}
+>```
+>%%
+>*%%PREFIX%%and the Product Owner) who act%%HIGHLIGHT%% ==as the interface between the development team and the organization.== %%POSTFIX%%The developers of Scrum wanted t*
+>%%LINK%%[[#^mkd1i633m09|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mkd1i633m09
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:11:03.034Z","updated":"2024-03-04T04:11:03.034Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":75346,"end":75363},{"type":"TextQuoteSelector","exact":"Scrum terminology","prefix":"do in a single sprint.Table 2.5 ","suffix":"M02_SOME6349_01_GE_C02.indd   39"}]}]}
+>```
+>%%
+>*%%PREFIX%%do in a single sprint.Table 2.5%%HIGHLIGHT%% ==Scrum terminology== %%POSTFIX%%M02_SOME6349_01_GE_C02.indd   39*
+>%%LINK%%[[#^61rqy6x11go|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^61rqy6x11go
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:11:35.372Z","updated":"2024-03-04T04:11:35.372Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":72529,"end":72554},{"type":"TextQuoteSelector","exact":"focuses  on  the  product","prefix":"the  development  team  always  ","suffix":"  they  are  building  rather  t"}]}]}
+>```
+>%%
+>*%%PREFIX%%the  development  team  always%%HIGHLIGHT%% ==focuses  on  the  product== %%POSTFIX%%they  are  building  rather  t*
+>%%LINK%%[[#^6ei99p0nb18|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6ei99p0nb18
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:11:48.795Z","updated":"2024-03-04T04:11:48.795Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":72805,"end":72860},{"type":"TextQuoteSelector","exact":"guide the team in the effective use of the Scrum method","prefix":" a Scrum expert whose job is to ","suffix":". The developers of Scrum emphas"}]}]}
+>```
+>%%
+>*%%PREFIX%%a Scrum expert whose job is to%%HIGHLIGHT%% ==guide the team in the effective use of the Scrum method== %%POSTFIX%%. The developers of Scrum emphas*
+>%%LINK%%[[#^2m3proouw7e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2m3proouw7e
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:11:57.073Z","updated":"2024-03-04T04:11:57.073Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":72962,"end":72982},{"type":"TextQuoteSelector","exact":"a coach for the team","prefix":"entional project manager but is ","suffix":". The ScrumMaster has the author"}]}]}
+>```
+>%%
+>*%%PREFIX%%entional project manager but is%%HIGHLIGHT%% ==a coach for the team== %%POSTFIX%%. The ScrumMaster has the author*
+>%%LINK%%[[#^0fkttgtyw8et|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0fkttgtyw8et
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:27:05.635Z","updated":"2024-03-04T04:27:05.635Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":73349,"end":73404},{"type":"TextQuoteSelector","exact":" outcome of each sprint should be product-quality  code","prefix":" increment.” This means that the","suffix":".  It  should  be  completely  t"}]}]}
+>```
+>%%
+>*%%PREFIX%%increment.” This means that the%%HIGHLIGHT%% ==outcome of each sprint should be product-quality  code== %%POSTFIX%%.  It  should  be  completely  t*
+>%%LINK%%[[#^1n28cpkhdd2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1n28cpkhdd2
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T04:27:23.345Z","updated":"2024-03-04T04:27:23.345Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":76803,"end":76814},{"type":"TextQuoteSelector","exact":"Scrum cycle","prefix":"ty in later sprints.Figure 2.3  ","suffix":"ScrumDevelopsoftwareTestsoftware"}]}]}
+>```
+>%%
+>*%%PREFIX%%ty in later sprints.Figure 2.3%%HIGHLIGHT%% ==Scrum cycle== %%POSTFIX%%ScrumDevelopsoftwareTestsoftware*
+>%%LINK%%[[#^3kz4ca3wp1w|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3kz4ca3wp1w
