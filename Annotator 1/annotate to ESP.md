@@ -566,3 +566,17 @@ annotation-target: Engineering-Software-Products_-An-Introduction-to-Modern-Soft
 >%%TAGS%%
 >
 ^3kz4ca3wp1w
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-04T05:31:06.193Z","updated":"2024-03-04T05:31:06.193Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":76754,"end":76791},{"type":"TextQuoteSelector","exact":"mprove productivity in later sprints.","prefix":"other to avoid problems and to i","suffix":"Figure 2.3  Scrum cycleScrumDeve"}]}]}
+>```
+>%%
+>*%%PREFIX%%other to avoid problems and to i%%HIGHLIGHT%% ==mprove productivity in later sprints.== %%POSTFIX%%Figure 2.3  Scrum cycleScrumDeve*
+>%%LINK%%[[#^mirzst7x48a|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^mirzst7x48a
