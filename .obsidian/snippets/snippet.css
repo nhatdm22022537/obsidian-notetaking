@@ -1,0 +1,109 @@
+/*----------------------*\
+*!   Gradient Headers   !*
+\*----------------------*/
+
+
+/** Colors **/
+:root .theme-light {
+    --h1-gradient: #7db342, #65cc77, #33cabb; /* Green gradient for all headers */
+    --h2-gradient: #7cb342, #9ccc65, #c0ca33;
+    --h3-gradient: #7cb342, #9ccc65, #c0ca33;
+    --h4-gradient: #7cb342, #9ccc65, #c0ca33;
+    --h5-gradient: #7cb342, #9ccc65, #c0ca33;
+    --h6-gradient: #7cb342, #9ccc65, #c0ca33;
+}
+
+:root .theme-dark {
+    --h1-gradient: #31c425, #60ce77, #33cabb; /* Green gradient for all headers */
+    --h2-gradient: #45c425, #48e8a9, #44b0ff;
+    --h3-gradient: #86ffaf, #13faff, #15aaff;
+    --h4-gradient: #89fcff, #5eccff, #af03ff;
+    --h5-gradient: #899cff, #af5eff, #ff03f9;
+    --h6-gradient: #a589ff, #f75eff, #ff0364;
+}
+
+/* Other CSS remains the same */
+/** Gradient Headers **/
+/* ... */
+
+/* Apply the gradient variables */
+.cm-header-1,
+h1 {
+    --gradient-header: var(--h1-gradient);
+    text-align: center; /* Centers h1 headers */
+}
+
+.cm-header-2,
+h2 {
+    --gradient-header: var(--h2-gradient);
+}
+
+/** Gradient Headers **/
+
+/* Fix formatting symbol colors */
+.cm-formatting-header {
+    color: inherit;
+}
+
+/* Add text-clipped background gradients */
+.cm-header:not(.cm-formatting),
+:is(h1, h2, h3, h4, h5, h6) {
+    background: linear-gradient(to right, var(--gradient-header));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: fit-content;
+}
+
+/* Apply the gradient variables */
+.cm-header-1,
+h1 {
+    --gradient-header: var(--h1-gradient);
+    text-align: center;
+}
+
+.cm-header-2,
+h2 {
+    --gradient-header: var(--h2-gradient);
+}
+
+.cm-header-3,
+h3 {
+    --gradient-header: var(--h3-gradient);
+}
+
+.cm-header-4,
+h4 {
+    --gradient-header: var(--h4-gradient);
+}
+
+.cm-header-5,
+h5 {
+    --gradient-header: var(--h5-gradient);
+}
+
+.cm-header-6,
+h6 {
+    --gradient-header: var(--h6-gradient);
+}
+
+
+
+.markdown-preview-view h1 {
+    font-size: 300%;
+
+}
+
+.markdown-preview-view h2 {
+    margin-bottom: 20px;
+    font-size: 170%;
+}
+
+
+/*img {*/
+/*    display: block;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*}*/
+* {
+    line-height: 1.4em !important;
+}

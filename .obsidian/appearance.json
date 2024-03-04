@@ -1,8 +1,15 @@
 {
   "accentColor": "#5cf566",
   "textFontFamily": "Roboto Mono",
-  "baseFontSize": 22,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "cssTheme": "Green Nightmare",
-  "interfaceFontFamily": "Roboto Mono"
+  "interfaceFontFamily": "Roboto Mono",
+  "nativeMenus": true,
+  "theme": "system",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "showViewHeader": true
 }
