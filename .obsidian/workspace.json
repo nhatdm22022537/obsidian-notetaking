@@ -21,6 +21,22 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "47dda35d6bde5589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f022acb9bb3e0444",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,13 +170,13 @@
   },
   "active": "fe68f0b0ba5191c8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
     "Support Vector Machine.md",
+    "Untitled.md",
     "Pasted image 20240305015401.png",
     "Pasted image 20240304225936.png",
     "Pasted image 20240304225453.png",
     "Why it's still thí.md",
-    "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
     "Annotator 1/annotate to ESP.md",
     "Pasted image 20240304225310.png",
     "ReadItLater Inbox/Note 2024-03-04 16-25-32.md",
