@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6e157f97f87b2056",
+        "id": "600f732f7e0f70fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a070f3248866b0",
+            "id": "afcf3f07dd03c430",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Annotator 1/annotate to ESP.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotator 1/annotate to ESP.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotator 1/annotate to ESP.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annotator 1/annotate to ESP.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -145,13 +147,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "e8a070f3248866b0",
+  "active": "afcf3f07dd03c430",
   "lastOpenFiles": [
     "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
     "Annotator 1/annotate to ESP.md",
+    "Untitled.md",
+    "ReadItLater Inbox/Note 2024-03-04 16-25-32.md",
+    "Excalidraw/Drawing 2024-03-04 16.44.37.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.md",
+    "Highlights for Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.md",
+    "ReadItLater Inbox",
+    "Excalidraw/Drawing 2024-03-04 16.24.21.excalidraw.md",
+    "This is some notes.md",
+    "ReadItLater Inbox/Note 2024-03-04 16-24-20.md",
+    "desktop.ini",
     "Annotator 1/Untitled.md",
     "Activity Diagram for the Amazon Locker Service - Grokking the Low Level Design Interview Using OOD Principles.pdf",
     "Annotator/Annotations.md",
@@ -159,7 +174,6 @@
     "Welcome.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-03-04 00.39.16.excalidraw.md",
-    "Excalidraw",
     "Annotator 1"
   ]
 }
