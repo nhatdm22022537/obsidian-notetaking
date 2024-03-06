@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "70c3b21cfbc8c188",
+    "id": "04cb7cc51cb05f48",
     "type": "split",
     "children": [
       {
-        "id": "3df4e196c4d4204a",
+        "id": "f3977d77f21e6e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe68f0b0ba5191c8",
+            "id": "65fd06936a818b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support Vector Machine.md",
-                "mode": "preview",
+                "file": "Data Mining/Crawling Data.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "31fc206c42cb2939",
+    "id": "16ae3ee22e67d688",
     "type": "split",
     "children": [
       {
-        "id": "00b7480fbbf58a60",
+        "id": "779087d081ca82ac",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f314d7b083d309",
+            "id": "d2c2e18eacb3faf1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "822c16153dfcf49a",
+            "id": "4ac124048fda8caa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "956b380100deef5c",
+            "id": "bb88e496f113de1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,24 +70,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "f76213129a2fd427",
+    "id": "c787bf69a9c69600",
     "type": "split",
     "children": [
       {
-        "id": "5dcb4391798d6f81",
+        "id": "f79f3519a67e8208",
         "type": "tabs",
         "children": [
           {
-            "id": "deee513a3e23c59a",
+            "id": "a926cb1767995465",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support Vector Machine.md",
+                "file": "Data Mining/Crawling Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +98,19 @@
             }
           },
           {
-            "id": "01e05911ef60cfae",
+            "id": "99720a8b0f1623c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support Vector Machine.md",
+                "file": "Data Mining/Crawling Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "46036b0e3050b4a2",
+            "id": "9024db9ffe5d1d90",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,12 +121,12 @@
             }
           },
           {
-            "id": "7a8a618d522ca787",
+            "id": "f51d0ec6536eb6d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support Vector Machine.md"
+                "file": "Data Mining/Crawling Data.md"
               }
             }
           }
@@ -140,46 +139,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe68f0b0ba5191c8",
+  "active": "65fd06936a818b22",
   "lastOpenFiles": [
-    "Untitled.md",
     "Support Vector Machine.md",
-    "Pasted image 20240305015401.png",
+    "Data Mining/Crawling Data.md",
+    "Data Mining/Data preprocessing.md",
+    "Data Mining/Data Searching and Annotation.md",
+    "Data Mining/Data visualization.md",
+    "Recording 20240306095738.webm",
+    "Recording 20240305104226.webm",
     "Pasted image 20240304225936.png",
+    "Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "2024-03-05.md",
     "Pasted image 20240304225453.png",
-    "Why it's still thí.md",
-    "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
-    "Annotator 1/annotate to ESP.md",
-    "Pasted image 20240304225310.png",
-    "ReadItLater Inbox/Note 2024-03-04 16-25-32.md",
-    "Excalidraw/Drawing 2024-03-04 16.44.37.excalidraw.md",
+    "Recording 20240305175521.webm",
+    "Excalidraw/Drawing 2024-03-06 09.39.18.excalidraw.md",
+    "Engineering Software Product/annotate to ESP.md",
+    "Pasted image 20240305015401.png",
+    "Data Mining",
+    "Excalidraw/Drawing 2024-03-05 10.49.28.excalidraw.md",
     "Excalidraw",
-    "Untitled 1.md",
-    "Highlights for Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.md",
-    "ReadItLater Inbox",
-    "Excalidraw/Drawing 2024-03-04 16.24.21.excalidraw.md",
-    "This is some notes.md",
-    "ReadItLater Inbox/Note 2024-03-04 16-24-20.md",
-    "desktop.ini",
-    "Annotator 1/Untitled.md",
-    "Activity Diagram for the Amazon Locker Service - Grokking the Low Level Design Interview Using OOD Principles.pdf",
-    "Annotator/Annotations.md",
-    "2024-03-04.md",
-    "Welcome.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2024-03-04 00.39.16.excalidraw.md",
-    "Annotator 1"
+    "Excalidraw/Drawing 2024-03-05 09.08.27.excalidraw.md"
   ]
 }

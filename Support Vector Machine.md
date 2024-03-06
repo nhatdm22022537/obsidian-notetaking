@@ -1,8 +1,10 @@
 ---
 banner: "https://datatron.com/wp-content/uploads/2021/05/Support-Vector-Machine.png"
-banner_y: 0.47333
+banner_y: 0.34999
 banner_x: 0.51852
 ---
+
+![[Recording 20240305104226.webm]]
 # Support Vector Machine
 ## StatQuest approach
 
@@ -22,8 +24,20 @@ https://www.youtube.com/watch?v=efR1C6CvhmE
  
 ![[Pasted image 20240304225936.png|825]]
 
- - <span style="color:#ff0000"><span style="color: #f00000">Maximal Margin Classifier</span></span>: When we use the threshold that give us the largest margin to make classifications
- 
+ - <span style="color:#ff0000"><span style="color: #f00000">Maximal Margin Classifier</span></span>: When we use the threshold that give us the largest margin to make classifications 
+
+
+
+
+
+
+
+
+$$ $$
+
+
+
+
 
 
 
