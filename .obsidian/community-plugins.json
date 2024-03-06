@@ -1,16 +1,9 @@
 [
   "obsidian-annotator",
-  "dataview",
-  "obsidian-git",
+  "obsidian-banners",
   "cm-editor-syntax-highlight-obsidian",
-  "convert-url-to-iframe",
-  "code-emitter",
   "obsidian-excalidraw-plugin",
-  "obsidian-thumbnails",
-  "obsidian-extract-pdf-highlights",
-  "quick-latex",
-  "various-complements",
-  "colored-text",
+  "obsidian-latex-suite",
   "mousewheel-image-zoom",
-  "obsidian-banners"
+  "obsidian-thumbnails"
 ]

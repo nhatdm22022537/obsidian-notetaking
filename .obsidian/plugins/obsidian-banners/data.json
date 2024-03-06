@@ -1,10 +1,10 @@
 {
-  "height": 600,
+  "height": 650,
   "style": "gradient",
   "showInInternalEmbed": true,
-  "internalEmbedHeight": 500,
+  "internalEmbedHeight": 200,
   "showInPreviewEmbed": true,
-  "previewEmbedHeight": 500,
+  "previewEmbedHeight": 200,
   "frontmatterField": "banner",
   "bannerDragModifier": "ctrl",
   "iconHorizontalAlignment": "center",

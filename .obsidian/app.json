@@ -11,5 +11,6 @@
   "foldIndent": true,
   "showIndentGuide": true,
   "autoConvertHtml": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }

@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "70c3b21cfbc8c188",
+    "id": "48f93df2d7688f2a",
     "type": "split",
     "children": [
       {
-        "id": "3df4e196c4d4204a",
+        "id": "aa3b9c98cf047e04",
         "type": "tabs",
+        "dimension": 36.67377398720683,
         "children": [
           {
-            "id": "fe68f0b0ba5191c8",
+            "id": "120cbde61eaeea98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support Vector Machine.md",
-                "mode": "preview",
+                "file": "Tín hiệu & hệ thống/Chương 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,16 +24,17 @@
         "stacked": true
       },
       {
-        "id": "47dda35d6bde5589",
+        "id": "bb4c806f6c81b0f4",
         "type": "tabs",
+        "dimension": 63.32622601279317,
         "children": [
           {
-            "id": "f022acb9bb3e0444",
+            "id": "64f48ba405eea7ae",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"
+                "file": "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf"
               }
             }
           }
@@ -42,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "31fc206c42cb2939",
+    "id": "a90cf2c7ece452a8",
     "type": "split",
     "children": [
       {
-        "id": "00b7480fbbf58a60",
+        "id": "3c7a5042577ffe8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f314d7b083d309",
+            "id": "5cc4c0fb6e509469",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +62,7 @@
             }
           },
           {
-            "id": "822c16153dfcf49a",
+            "id": "68d94c386945df89",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +77,7 @@
             }
           },
           {
-            "id": "956b380100deef5c",
+            "id": "ea85dff0d57de451",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,48 +88,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 298.5,
     "collapsed": true
   },
   "right": {
-    "id": "f76213129a2fd427",
+    "id": "14ef38c309080231",
     "type": "split",
     "children": [
       {
-        "id": "5dcb4391798d6f81",
+        "id": "fb518dd061088ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "deee513a3e23c59a",
+            "id": "22f7a2385063e252",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support Vector Machine.md",
+                "file": "Tín hiệu & hệ thống/Chương 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "01e05911ef60cfae",
+            "id": "cd6e12dd042814f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Support Vector Machine.md",
+                "file": "Tín hiệu & hệ thống/Chương 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "46036b0e3050b4a2",
+            "id": "7b1a5b5675fcd96e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,12 +140,12 @@
             }
           },
           {
-            "id": "7a8a618d522ca787",
+            "id": "117bac21aa92faba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support Vector Machine.md"
+                "file": "Tín hiệu & hệ thống/Chương 1.md"
               }
             }
           }
@@ -156,46 +158,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe68f0b0ba5191c8",
+  "active": "120cbde61eaeea98",
   "lastOpenFiles": [
-    "Annotator 1/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
-    "Support Vector Machine.md",
-    "Untitled.md",
-    "Pasted image 20240305015401.png",
+    "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf",
+    "Tín hiệu & hệ thống/Chương 1.md",
+    "Untitled.canvas",
+    "Data Mining/Data preprocessing.md",
+    "Data Mining/Data Searching and Annotation.md",
+    "Data Mining/Data visualization.md",
+    "Data Mining/Support Vector Machine.md",
+    "Chủ nghĩa XHKH/Untitled.md",
+    "Recording 20240306095738.webm",
+    "Recording 20240305104226.webm",
     "Pasted image 20240304225936.png",
     "Pasted image 20240304225453.png",
-    "Why it's still thí.md",
-    "Annotator 1/annotate to ESP.md",
-    "Pasted image 20240304225310.png",
-    "ReadItLater Inbox/Note 2024-03-04 16-25-32.md",
-    "Excalidraw/Drawing 2024-03-04 16.44.37.excalidraw.md",
-    "Excalidraw",
-    "Untitled 1.md",
-    "Highlights for Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.md",
-    "ReadItLater Inbox",
-    "Excalidraw/Drawing 2024-03-04 16.24.21.excalidraw.md",
-    "This is some notes.md",
-    "ReadItLater Inbox/Note 2024-03-04 16-24-20.md",
-    "desktop.ini",
-    "Annotator 1/Untitled.md",
-    "Activity Diagram for the Amazon Locker Service - Grokking the Low Level Design Interview Using OOD Principles.pdf",
-    "Annotator/Annotations.md",
-    "2024-03-04.md",
-    "Welcome.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2024-03-04 00.39.16.excalidraw.md",
-    "Annotator 1"
+    "Recording 20240305175521.webm",
+    "Pasted image 20240305015401.png",
+    "conflict-files-obsidian-git.md",
+    "Chủ nghĩa XHKH",
+    "Data Mining/Crawling Data.md",
+    "Tín hiệu & hệ thống",
+    "Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
+    "Engineering Software Product/annotate to ESP.md",
+    "2024-03-06.md",
+    "desktop.ini"
   ]
 }
