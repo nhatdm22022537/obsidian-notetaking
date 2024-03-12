@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3b9c98cf047e04",
+        "id": "c86f307bd8db0a0d",
         "type": "tabs",
-        "dimension": 36.67377398720683,
         "children": [
           {
-            "id": "120cbde61eaeea98",
+            "id": "497ef854bacc4a1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Tín hiệu & hệ thống/Chương 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Engineering Software Product/annotate to ESP.md"
               }
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "bb4c806f6c81b0f4",
-        "type": "tabs",
-        "dimension": 63.32622601279317,
-        "children": [
-          {
-            "id": "64f48ba405eea7ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tín hiệu & hệ thống/Chương 1.md",
+                "file": "Engineering Software Product/annotate to ESP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tín hiệu & hệ thống/Chương 1.md",
+                "file": "Engineering Software Product/annotate to ESP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tín hiệu & hệ thống/Chương 1.md"
+                "file": "Engineering Software Product/annotate to ESP.md"
               }
             }
+          },
+          {
+            "id": "00cae1d2c722a3d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,32 +155,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "120cbde61eaeea98",
+  "active": "497ef854bacc4a1b",
   "lastOpenFiles": [
-    "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf",
-    "Tín hiệu & hệ thống/Chương 1.md",
-    "Untitled.canvas",
-    "Data Mining/Data preprocessing.md",
-    "Data Mining/Data Searching and Annotation.md",
+    "Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
+    "Front-end dev/Redux/Redux Overview.md",
+    "Backend-dev/Java Spring/Session in Java.md",
+    "Front-end dev/Redux",
+    "Front-end dev",
+    "Backend-dev/Java Spring/ResponseEntity.md",
+    "Backend-dev/Java Spring/Sử dụng ModelMapper để chuyển data giữa các layer.md",
+    "Backend-dev/Java Spring/Controller Request Handling 2.md",
+    "Backend-dev/Java Spring/Controller Request Handling 1.md",
+    "Backend-dev/Java Spring/Java Logging.md",
+    "Backend-dev/Java Spring/Project Structure 1.md",
+    "Backend-dev/Java Spring/Project Structure 2.md",
+    "Pasted image 20240310172508.png",
+    "Backend-dev/Java Spring/Bean life cycle & Component scan.md",
+    "Backend-dev/Java Spring/Bean & Application Context.md",
+    "Pasted image 20240309005558.png",
+    "Pasted image 20240308200651.png",
+    "Backend-dev/Java Spring/Project Structure.md",
+    "Data Mining/Crawling Data.md",
     "Data Mining/Data visualization.md",
+    "Data Mining/Data preprocessing.md",
+    "Pasted image 20240308173657.png",
     "Data Mining/Support Vector Machine.md",
-    "Chủ nghĩa XHKH/Untitled.md",
-    "Recording 20240306095738.webm",
-    "Recording 20240305104226.webm",
+    "Recording 20240305175521.webm",
     "Pasted image 20240304225936.png",
     "Pasted image 20240304225453.png",
-    "Recording 20240305175521.webm",
+    "Backend-dev/Java Spring",
     "Pasted image 20240305015401.png",
+    "Recording 20240306095738.webm",
+    "Untitled.canvas",
+    "Engineering Software Product/annotate to ESP.md",
+    "Backend-dev",
+    "Tín hiệu & hệ thống/Chương 1.md",
+    "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf",
+    "Data Mining/Data Searching and Annotation.md",
+    "Chủ nghĩa XHKH/Untitled.md",
+    "Recording 20240305104226.webm",
     "conflict-files-obsidian-git.md",
     "Chủ nghĩa XHKH",
-    "Data Mining/Crawling Data.md",
     "Tín hiệu & hệ thống",
-    "Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
-    "Engineering Software Product/annotate to ESP.md",
-    "2024-03-06.md",
-    "desktop.ini"
+    "2024-03-06.md"
   ]
 }

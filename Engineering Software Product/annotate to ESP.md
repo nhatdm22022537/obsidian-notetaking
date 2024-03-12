@@ -612,3 +612,535 @@ annotation-target: Engineering-Software-Products_-An-Introduction-to-Modern-Soft
 >
 ^pf2alb41cl
 
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T01:39:02.448Z","updated":"2024-03-11T01:39:02.448Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":193531,"end":193621},{"type":"TextQuoteSelector","exact":"Architectural issues are so important that three chapters in this book are devoted to them","prefix":"liability, and maintainability. ","suffix":". In this chapter I discuss the "}]}]}
+>```
+>%%
+>*%%PREFIX%%liability, and maintainability.%%HIGHLIGHT%% ==Architectural issues are so important that three chapters in this book are devoted to them== %%POSTFIX%%. In this chapter I discuss the*
+>%%LINK%%[[#^3nhxytkhzse|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3nhxytkhzse
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T01:46:06.909Z","updated":"2024-03-11T01:46:06.909Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":194478,"end":194491},{"type":"TextQuoteSelector","exact":"“components.”","prefix":"tant term in this definition is ","suffix":" Here it is used in a very gener"}]}]}
+>```
+>%%
+>*%%PREFIX%%tant term in this definition is%%HIGHLIGHT%% ==“components.”== %%POSTFIX%%Here it is used in a very gener*
+>%%LINK%%[[#^hv9bi1p0w1l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hv9bi1p0w1l
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:28:54.399Z","updated":"2024-03-11T02:28:54.399Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":197302,"end":197356},{"type":"TextQuoteSelector","exact":"ystem planning and documentation should be mini-mized.","prefix":"ciple of agile methods is that s","suffix":"  However,  this  does  not  mea"}]}]}
+>```
+>%%
+>*%%PREFIX%%ciple of agile methods is that s%%HIGHLIGHT%% ==ystem planning and documentation should be mini-mized.== %%POSTFIX%%However,  this  does  not  mea*
+>%%LINK%%[[#^a3yw1so04zh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a3yw1so04zh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:35:21.725Z","updated":"2024-03-11T02:35:21.725Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":197557,"end":197612},{"type":"TextQuoteSelector","exact":" should be an early activity in the development process","prefix":"ral design and suggest that this","suffix":". You can do this in a Scrum spr"}]}]}
+>```
+>%%
+>*%%PREFIX%%ral design and suggest that this%%HIGHLIGHT%% ==should be an early activity in the development process== %%POSTFIX%%. You can do this in a Scrum spr*
+>%%LINK%%[[#^i2t08tza2t|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^i2t08tza2t
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:35:39.065Z","updated":"2024-03-11T02:35:39.065Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":197940,"end":197965},{"type":"TextQuoteSelector","exact":"“single architect” model ","prefix":"However, the problems with this ","suffix":"is that the team may not underst"}]}]}
+>```
+>%%
+>*%%PREFIX%%However, the problems with this%%HIGHLIGHT%% ==“single architect” model== %%POSTFIX%%is that the team may not underst*
+>%%LINK%%[[#^nyhpm474pm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nyhpm474pm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:35:46.059Z","updated":"2024-03-11T02:35:46.059Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":197973,"end":198043},{"type":"TextQuoteSelector","exact":"the team may not understand the architectural decisions that were made","prefix":"single architect” model is that ","suffix":". To make sure that your whole t"}]}]}
+>```
+>%%
+>*%%PREFIX%%single architect” model is that%%HIGHLIGHT%% ==the team may not understand the architectural decisions that were made== %%POSTFIX%%. To make sure that your whole t*
+>%%LINK%%[[#^bivlc1ji15r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bivlc1ji15r
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:42:58.791Z","updated":"2024-03-11T02:42:58.791Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":198954,"end":198972},{"type":"TextQuoteSelector","exact":"product prototype.","prefix":"hat you should always develop a ","suffix":" The aim of a prototype is to he"}]}]}
+>```
+>%%
+>*%%PREFIX%%hat you should always develop a%%HIGHLIGHT%% ==product prototype.== %%POSTFIX%%The aim of a prototype is to he*
+>%%LINK%%[[#^6jnyug8je68|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6jnyug8je68
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:43:51.145Z","updated":"2024-03-11T02:43:51.145Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":199281,"end":199334},{"type":"TextQuoteSelector","exact":"“non-functional” attri-butes are critically important","prefix":"oping a final product, however, ","suffix":" (Table 4.2). It is these attrib"}]}]}
+>```
+>%%
+>*%%PREFIX%%oping a final product, however,%%HIGHLIGHT%% ==“non-functional” attri-butes are critically important== %%POSTFIX%%(Table 4.2). It is these attrib*
+>%%LINK%%[[#^swngouae9xi|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^swngouae9xi
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:46:57.518Z","updated":"2024-03-11T02:46:57.518Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":200963,"end":200996},{"type":"TextQuoteSelector","exact":"centralized security architecture","prefix":"mote location. This is called a ","suffix":". It is based on the principle t"}]}]}
+>```
+>%%
+>*%%PREFIX%%mote location. This is called a%%HIGHLIGHT%% ==centralized security architecture== %%POSTFIX%%. It is based on the principle t*
+>%%LINK%%[[#^7yqc3ffmuux|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7yqc3ffmuux
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:47:41.582Z","updated":"2024-03-11T02:47:41.582Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":202204,"end":202224},{"type":"TextQuoteSelector","exact":"centralized security","prefix":"consequences. The benefits of a ","suffix":" architecture are that it is eas"}]}]}
+>```
+>%%
+>*%%PREFIX%%consequences. The benefits of a%%HIGHLIGHT%% ==centralized security== %%POSTFIX%%architecture are that it is eas*
+>%%LINK%%[[#^p12ad3o1mop|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^p12ad3o1mop
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:47:51.867Z","updated":"2024-03-11T02:47:51.867Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":202415,"end":202516},{"type":"TextQuoteSelector","exact":"distribute information, it takes longer to access all of the information and costs more to protect it","prefix":"ed, you lose everything. If you ","suffix":". If security is breached in one"}]}]}
+>```
+>%%
+>*%%PREFIX%%ed, you lose everything. If you%%HIGHLIGHT%% ==distribute information, it takes longer to access all of the information and costs more to protect it== %%POSTFIX%%. If security is breached in one*
+>%%LINK%%[[#^peszufppzvf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^peszufppzvf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:49:35.262Z","updated":"2024-03-11T02:49:35.262Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":205188,"end":205263},{"type":"TextQuoteSelector","exact":"minimiz-ing complexity should be an important goal for architectural design","prefix":"ng a complex system. Therefore, ","suffix":".The organization of a system ha"}]}]}
+>```
+>%%
+>*%%PREFIX%%ng a complex system. Therefore,%%HIGHLIGHT%% ==minimiz-ing complexity should be an important goal for architectural design== %%POSTFIX%%.The organization of a system ha*
+>%%LINK%%[[#^0lct7u2c8zvg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0lct7u2c8zvg
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:49:55.045Z","updated":"2024-03-11T02:49:55.045Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":207086,"end":207096},{"type":"TextQuoteSelector","exact":"Figure 4.4","prefix":"ity vs. time to market and cost.","suffix":"  Issues that influence architec"}]}]}
+>```
+>%%
+>*%%PREFIX%%ity vs. time to market and cost.%%HIGHLIGHT%% ==Figure 4.4== %%POSTFIX%%Issues that influence architec*
+>%%LINK%%[[#^xtlau6jed1d|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xtlau6jed1d
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:50:51.599Z","updated":"2024-03-11T02:50:51.599Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":206025,"end":206074},{"type":"TextQuoteSelector","exact":" most important for software product development ","prefix":"he architectural issues that are","suffix":"are shown in Figure 4.4 and Tabl"}]}]}
+>```
+>%%
+>*%%PREFIX%%he architectural issues that are%%HIGHLIGHT%% ==most important for software product development== %%POSTFIX%%are shown in Figure 4.4 and Tabl*
+>%%LINK%%[[#^m0ous25gli|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^m0ous25gli
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:50:56.070Z","updated":"2024-03-11T02:50:56.070Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":206086,"end":206111},{"type":"TextQuoteSelector","exact":" Figure 4.4 and Table 4.4","prefix":"product development are shown in","suffix":".Other human and organizational "}]}]}
+>```
+>%%
+>*%%PREFIX%%product development are shown in%%HIGHLIGHT%% ==Figure 4.4 and Table 4.4== %%POSTFIX%%.Other human and organizational*
+>%%LINK%%[[#^jxzja0y46f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jxzja0y46f
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:53:01.592Z","updated":"2024-03-11T02:53:01.592Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":206747,"end":206784},{"type":"TextQuoteSelector","exact":"create a system that is “good enough”","prefix":"l compromises that allow you to ","suffix":" and can be delivered on time an"}]}]}
+>```
+>%%
+>*%%PREFIX%%l compromises that allow you to%%HIGHLIGHT%% ==create a system that is “good enough”== %%POSTFIX%%and can be delivered on time an*
+>%%LINK%%[[#^x9ui4izon7m|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^x9ui4izon7m
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:53:09.141Z","updated":"2024-03-11T02:53:09.141Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":206907,"end":206918},{"type":"TextQuoteSelector","exact":" trade-offs","prefix":"ng, you have to make a series of","suffix":" when choosing an architecture f"}]}]}
+>```
+>%%
+>*%%PREFIX%%ng, you have to make a series of%%HIGHLIGHT%% ==trade-offs== %%POSTFIX%%when choosing an architecture f*
+>%%LINK%%[[#^qv8clqu1yz|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qv8clqu1yz
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T02:59:52.070Z","updated":"2024-03-11T02:59:52.070Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":207528,"end":207554},{"type":"TextQuoteSelector","exact":" improve  maintainability ","prefix":"to customers. In  general,  you ","suffix":" by  building  a  system  from  "}]}]}
+>```
+>%%
+>*%%PREFIX%%to customers. In  general,  you%%HIGHLIGHT%% ==improve  maintainability== %%POSTFIX%%by  building  a  system  from*
+>%%LINK%%[[#^8c8b4ymoaha|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^8c8b4ymoaha
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:00:10.186Z","updated":"2024-03-11T03:00:10.186Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":207712,"end":207740},{"type":"TextQuoteSelector","exact":"avoid shared data structures","prefix":". Wherever possible, you should ","suffix":" and you should make sure that, "}]}]}
+>```
+>%%
+>*%%PREFIX%%. Wherever possible, you should%%HIGHLIGHT%% ==avoid shared data structures== %%POSTFIX%%and you should make sure that,*
+>%%LINK%%[[#^sk1cdfter69|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sk1cdfter69
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:00:54.105Z","updated":"2024-03-11T03:00:54.105Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":207975,"end":208009},{"type":"TextQuoteSelector","exact":"does one thing and one thing only.","prefix":"grain components, each of which ","suffix":" More general functionality emer"}]}]}
+>```
+>%%
+>*%%PREFIX%%grain components, each of which%%HIGHLIGHT%% ==does one thing and one thing only.== %%POSTFIX%%More general functionality emer*
+>%%LINK%%[[#^r9rsbm46g|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^r9rsbm46g
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:01:14.856Z","updated":"2024-03-11T03:01:14.856Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":208317,"end":208383},{"type":"TextQuoteSelector","exact":"if many components are involved in implementing a product feature,","prefix":"with each other. Con-sequently, ","suffix":" Issue Architectural importanceN"}]}]}
+>```
+>%%
+>*%%PREFIX%%with each other. Con-sequently,%%HIGHLIGHT%% ==if many components are involved in implementing a product feature,== %%POSTFIX%%Issue Architectural importanceN*
+>%%LINK%%[[#^6efl9esaq2i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6efl9esaq2i
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:01:30.211Z","updated":"2024-03-11T03:01:30.211Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":209999,"end":210005},{"type":"TextQuoteSelector","exact":"delays","prefix":"ct on performance. There may be ","suffix":" involved in transferring data f"}]}]}
+>```
+>%%
+>*%%PREFIX%%ct on performance. There may be%%HIGHLIGHT%% ==delays== %%POSTFIX%%involved in transferring data f*
+>%%LINK%%[[#^7d5axx7ry1x|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7d5axx7ry1x
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:01:33.011Z","updated":"2024-03-11T03:01:33.011Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":210018,"end":210036},{"type":"TextQuoteSelector","exact":"transferring data ","prefix":"There may be delays involved in ","suffix":"from one component to another an"}]}]}
+>```
+>%%
+>*%%PREFIX%%There may be delays involved in%%HIGHLIGHT%% ==transferring data== %%POSTFIX%%from one component to another an*
+>%%LINK%%[[#^e5c77o1yrlf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^e5c77o1yrlf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:03:59.710Z","updated":"2024-03-11T03:03:59.710Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":210902,"end":211002},{"type":"TextQuoteSelector","exact":"multiple authentication layers. A layered approach to security affects the usability of the software","prefix":"y, there are drawbacks to using ","suffix":". Users have to remember informa"}]}]}
+>```
+>%%
+>*%%PREFIX%%y, there are drawbacks to using%%HIGHLIGHT%% ==multiple authentication layers. A layered approach to security affects the usability of the software== %%POSTFIX%%. Users have to remember informa*
+>%%LINK%%[[#^ift7oe6cdp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ift7oe6cdp
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:04:05.316Z","updated":"2024-03-11T03:04:05.316Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":211205,"end":211215},{"type":"TextQuoteSelector","exact":"irritating","prefix":" features. Many users find this ","suffix":" and often look for work-arounds"}]}]}
+>```
+>%%
+>*%%PREFIX%%features. Many users find this%%HIGHLIGHT%% ==irritating== %%POSTFIX%%and often look for work-arounds*
+>%%LINK%%[[#^clibnli52ms|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^clibnli52ms
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:04:09.544Z","updated":"2024-03-11T03:04:09.544Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":211235,"end":211291},{"type":"TextQuoteSelector","exact":"work-arounds so that they do not have to re-authenticate","prefix":"s irritating and often look for ","suffix":" to access system features or da"}]}]}
+>```
+>%%
+>*%%PREFIX%%s irritating and often look for%%HIGHLIGHT%% ==work-arounds so that they do not have to re-authenticate== %%POSTFIX%%to access system features or da*
+>%%LINK%%[[#^apidtv6c2j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^apidtv6c2j
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:04:26.854Z","updated":"2024-03-11T03:04:26.854Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":211696,"end":211733},{"type":"TextQuoteSelector","exact":"doesn’t have too many security layers","prefix":", you need an architecture that ","suffix":", that doesn’t enforce unnecessa"}]}]}
+>```
+>%%
+>*%%PREFIX%%, you need an architecture that%%HIGHLIGHT%% ==doesn’t have too many security layers== %%POSTFIX%%, that doesn’t enforce unnecessa*
+>%%LINK%%[[#^zzw1mep2aqb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zzw1mep2aqb
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:04:35.910Z","updated":"2024-03-11T03:04:35.910Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212121,"end":212133},{"type":"TextQuoteSelector","exact":"availability","prefix":" Architectural design    101The ","suffix":" of a system is a measure of the"}]}]}
+>```
+>%%
+>*%%PREFIX%%Architectural design    101The%%HIGHLIGHT%% ==availability== %%POSTFIX%%of a system is a measure of the*
+>%%LINK%%[[#^srsmy8mwpag|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^srsmy8mwpag
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:04:39.595Z","updated":"2024-03-11T03:04:39.595Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212166,"end":212198},{"type":"TextQuoteSelector","exact":"amount of uptime of that system.","prefix":"of a system is a measure of the ","suffix":" It is normally expressed as a p"}]}]}
+>```
+>%%
+>*%%PREFIX%%of a system is a measure of the%%HIGHLIGHT%% ==amount of uptime of that system.== %%POSTFIX%%It is normally expressed as a p*
+>%%LINK%%[[#^0ra1be179pue|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0ra1be179pue
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:05:06.898Z","updated":"2024-03-11T03:05:06.898Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212582,"end":212633},{"type":"TextQuoteSelector","exact":"finance industry, where 24/7 operation is expected.","prefix":"ducts, such as products for the ","suffix":"Architecturally, you improve ava"}]}]}
+>```
+>%%
+>*%%PREFIX%%ducts, such as products for the%%HIGHLIGHT%% ==finance industry, where 24/7 operation is expected.== %%POSTFIX%%Architecturally, you improve ava*
+>%%LINK%%[[#^heas0oinvp5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^heas0oinvp5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:06:57.213Z","updated":"2024-03-11T03:06:57.213Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212678,"end":212717},{"type":"TextQuoteSelector","exact":"having redundant components in a system","prefix":"ly, you improve availability by ","suffix":". To make use of redundancy, you"}]}]}
+>```
+>%%
+>*%%PREFIX%%ly, you improve availability by%%HIGHLIGHT%% ==having redundant components in a system== %%POSTFIX%%. To make use of redundancy, you*
+>%%LINK%%[[#^djyjhkqnilv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^djyjhkqnilv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:02.437Z","updated":"2024-03-11T03:07:02.437Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212800,"end":212894},{"type":"TextQuoteSelector","exact":"switching components that switch operation to a redundant component when a failure is detected","prefix":"ponents that detect failure and ","suffix":". The problem here is that imple"}]}]}
+>```
+>%%
+>*%%PREFIX%%ponents that detect failure and%%HIGHLIGHT%% ==switching components that switch operation to a redundant component when a failure is detected== %%POSTFIX%%. The problem here is that imple*
+>%%LINK%%[[#^xhrpasfd1b|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xhrpasfd1b
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:07.858Z","updated":"2024-03-11T03:07:07.858Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212957,"end":212967},{"type":"TextQuoteSelector","exact":"takes time","prefix":"ementing these extra components ","suffix":" and increases the cost of syste"}]}]}
+>```
+>%%
+>*%%PREFIX%%ementing these extra components%%HIGHLIGHT%% ==takes time== %%POSTFIX%%and increases the cost of syste*
+>%%LINK%%[[#^kezrzhnpai8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kezrzhnpai8
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:10.992Z","updated":"2024-03-11T03:07:10.992Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":212985,"end":213012},{"type":"TextQuoteSelector","exact":" cost of system develop-men","prefix":"nts takes time and increases the","suffix":"t. It adds complexity to the sys"}]}]}
+>```
+>%%
+>*%%PREFIX%%nts takes time and increases the%%HIGHLIGHT%% ==cost of system develop-men== %%POSTFIX%%t. It adds complexity to the sys*
+>%%LINK%%[[#^293m8es4u67|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^293m8es4u67
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:15.616Z","updated":"2024-03-11T03:07:15.616Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":213018,"end":213033},{"type":"TextQuoteSelector","exact":"adds complexity","prefix":"cost of system develop-ment. It ","suffix":" to the system and therefore inc"}]}]}
+>```
+>%%
+>*%%PREFIX%%cost of system develop-ment. It%%HIGHLIGHT%% ==adds complexity== %%POSTFIX%%to the system and therefore inc*
+>%%LINK%%[[#^w2amjmebhjr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^w2amjmebhjr
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:27.484Z","updated":"2024-03-11T03:07:27.484Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":213177,"end":213227},{"type":"TextQuoteSelector","exact":"component-switching in the event of system failure","prefix":"t product software does not use ","suffix":". As I explain in  Chapter  8,  "}]}]}
+>```
+>%%
+>*%%PREFIX%%t product software does not use%%HIGHLIGHT%% ==component-switching in the event of system failure== %%POSTFIX%%. As I explain in  Chapter  8,*
+>%%LINK%%[[#^qiq97mbgoas|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qiq97mbgoas
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:36.914Z","updated":"2024-03-11T03:07:36.914Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":213272,"end":213309},{"type":"TextQuoteSelector","exact":"  reliable  programming  techniques  ","prefix":"n in  Chapter  8,  you  can  use","suffix":"to  reduce  the  changes of syst"}]}]}
+>```
+>%%
+>*%%PREFIX%%n in  Chapter  8,  you  can  use%%HIGHLIGHT%% ==reliable  programming  techniques== %%POSTFIX%%to  reduce  the  changes of syst*
+>%%LINK%%[[#^1hshhq8411z|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1hshhq8411z
+
+
+>%%
+>```annotation-json
+>{"created":"2024-03-11T03:07:44.591Z","updated":"2024-03-11T03:07:44.591Z","document":{"title":"Engineering Software Products: An Introduction to Modern Software Engineering","link":[{"href":"urn:x-pdf:f3c0246bbd06051ea8063870dda6d442"},{"href":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf"}],"documentFingerprint":"f3c0246bbd06051ea8063870dda6d442"},"uri":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","target":[{"source":"vault:/Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf","selector":[{"type":"TextPositionSelector","start":213454,"end":213471},{"type":"TextQuoteSelector","exact":" three questions ","prefix":"r software, you have to consider","suffix":"about the architectural design o"}]}]}
+>```
+>%%
+>*%%PREFIX%%r software, you have to consider%%HIGHLIGHT%% ==three questions== %%POSTFIX%%about the architectural design o*
+>%%LINK%%[[#^exzfcx13f4w|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^exzfcx13f4w
