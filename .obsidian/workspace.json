@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c86f307bd8db0a0d",
+        "id": "a2a65ce25849171b",
         "type": "tabs",
         "children": [
           {
-            "id": "497ef854bacc4a1b",
+            "id": "9f03d6976987b6a9",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Engineering Software Product/annotate to ESP.md"
+                "file": "Prompt Engineering/Techniques.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 230.50260543823242
   },
   "right": {
     "id": "14ef38c309080231",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering Software Product/annotate to ESP.md",
+                "file": "Prompt Engineering/Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering Software Product/annotate to ESP.md",
+                "file": "Prompt Engineering/Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering Software Product/annotate to ESP.md"
+                "file": "Prompt Engineering/Techniques.md"
               }
             }
           },
@@ -159,8 +160,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "497ef854bacc4a1b",
+  "active": "9f03d6976987b6a9",
   "lastOpenFiles": [
+    "Prompt Engineering/Introduction.md",
+    "Prompt Engineering/Techniques.md",
+    "Backend-dev/Choosing API.md",
+    "Prompt Engineering",
+    "Recording 20240306095738.webm",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Backend-dev/Idempotent API.md",
+    "Backend-dev/REST.md",
+    "Untitled.canvas",
+    "Pasted image 20240324070636.png",
+    "Backend-dev/gRPC.md",
+    "Backend-dev/GraphQL.md",
+    "Nhà nước và pháp luật đại cương/Bộ máy, chức năng và hình thức nhà nước.md",
+    "Pasted image 20240324053310.png",
+    "Pasted image 20240324053152.png",
+    "Pasted image 20240324053056.png",
+    "Pasted image 20240324052549.png",
+    "Pasted image 20240324025903.png",
+    "Pasted image 20240324025852.png",
+    "Pasted image 20240324025653.png",
+    "Pasted image 20240324025057.png",
+    "Pasted image 20240324025015.png",
+    "Nhà nước và pháp luật đại cương/Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam.md",
+    "Nhà nước và pháp luật đại cương/Tổng quan.md",
+    "Nhà nước và pháp luật đại cương",
+    "Excalidraw/Drawing 2024-03-16 01.01.33.excalidraw.md",
+    "Excalidraw",
+    "Engineering Software Product/annotate to ESP.md",
     "Engineering Software Product/Engineering-Software-Products_-An-Introduction-to-Modern-Software-Engineering.pdf",
     "Front-end dev/Redux/Redux Overview.md",
     "Backend-dev/Java Spring/Session in Java.md",
@@ -173,34 +205,9 @@
     "Backend-dev/Java Spring/Java Logging.md",
     "Backend-dev/Java Spring/Project Structure 1.md",
     "Backend-dev/Java Spring/Project Structure 2.md",
-    "Pasted image 20240310172508.png",
     "Backend-dev/Java Spring/Bean life cycle & Component scan.md",
-    "Backend-dev/Java Spring/Bean & Application Context.md",
-    "Pasted image 20240309005558.png",
-    "Pasted image 20240308200651.png",
-    "Backend-dev/Java Spring/Project Structure.md",
-    "Data Mining/Crawling Data.md",
-    "Data Mining/Data visualization.md",
-    "Data Mining/Data preprocessing.md",
-    "Pasted image 20240308173657.png",
-    "Data Mining/Support Vector Machine.md",
     "Recording 20240305175521.webm",
-    "Pasted image 20240304225936.png",
-    "Pasted image 20240304225453.png",
     "Backend-dev/Java Spring",
-    "Pasted image 20240305015401.png",
-    "Recording 20240306095738.webm",
-    "Untitled.canvas",
-    "Engineering Software Product/annotate to ESP.md",
-    "Backend-dev",
-    "Tín hiệu & hệ thống/Chương 1.md",
-    "Tín hiệu & hệ thống/Tín hiệu và hệ thống.pdf",
-    "Data Mining/Data Searching and Annotation.md",
-    "Chủ nghĩa XHKH/Untitled.md",
-    "Recording 20240305104226.webm",
-    "conflict-files-obsidian-git.md",
-    "Chủ nghĩa XHKH",
-    "Tín hiệu & hệ thống",
-    "2024-03-06.md"
+    "Backend-dev"
   ]
 }
